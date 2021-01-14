@@ -4,4 +4,4 @@
 
 YaTunes - приложение для прослушивания музыки, радио и просмотра видео. Работа плееров реализована на чистом js.
 
-[Посмотреть](https://itwassoclear.github.io/yatunes/).
+[Посмотреть, понажимать](https://itwassoclear.github.io/yatunes/).
